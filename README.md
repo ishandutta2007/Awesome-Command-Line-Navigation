@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&oogoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Command-Line-Navigation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Command-Line-Navigation?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Command-Line-Navigation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Command-Line-Navigation?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Command-Line-Navigation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Command-Line-Navigation?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Command-Line-Navigation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,7 +66,7 @@ Below are the most acclaimed open-source terminal navigation utilities, ranked s
 
 ### 🏆 Category Leaders & Top Starred Tools
 
-| Project | GitHub Stars | License | Description & Navigation Strengths |
+| Project | GitHub_Stars | License | Description & Navigation Strengths |
 | :--- | :--- | :--- | :--- |
 | **[fzf](https://github.com/junegunn/fzf)** | <a href="https://github.com/junegunn/fzf/stargazers"><img src="https://img.shields.io/github/stars/junegunn/fzf?style=social&color=white" alt="fzf stars"/></a> | `MIT` | **A general-purpose interactive command-line fuzzy finder.** Powers interactive directory jumping (`ALT-C`), contextual file searching (`CTRL-T`), command history retrieval (`CTRL-R`), and integrates seamlessly with `zoxide`, `git`, and `neovim`. |
 | **[yazi](https://github.com/sxyazi/yazi)** | <a href="https://github.com/sxyazi/yazi/stargazers"><img src="https://img.shields.io/github/stars/sxyazi/yazi?style=social&color=white" alt="yazi stars"/></a> | `MIT` | **Blazing fast terminal file manager written in Rust, based on async I/O.** Features asynchronous file loading, built-in code and full-resolution Kitty/Sixel graphics preview, and Vim-style navigation. |
@@ -91,7 +91,7 @@ Below are the most acclaimed open-source terminal navigation utilities, ranked s
 
 Pair your directory jumpers with these top-tier command-line exploration and search tools:
 
-| Tool | GitHub Stars | Description |
+| Tool | GitHub_Stars | Description |
 | :--- | :--- | :--- |
 | **[fd](https://github.com/sharkdp/fd)** | <a href="https://github.com/sharkdp/fd/stargazers"><img src="https://img.shields.io/github/stars/sharkdp/fd?style=social&color=white" alt="fd stars"/></a> | Simple, fast, and user-friendly alternative to `find` with colorized output and regex support. |
 | **[delta](https://github.com/dandavison/delta)** | <a href="https://github.com/dandavison/delta/stargazers"><img src="https://img.shields.io/github/stars/dandavison/delta?style=social&color=white" alt="delta stars"/></a> | A syntax-highlighting pager for git, diff, and grep output that transforms navigation through diffs. |
